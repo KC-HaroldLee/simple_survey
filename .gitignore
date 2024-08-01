@@ -1,3 +1,4 @@
 node_modules
 data_sample
 page.json
+__pycache__

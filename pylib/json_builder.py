@@ -8,7 +8,7 @@ import os
 def build_survey_data(csv_file_path:str) -> list : 
     df = pd.read_csv(sample_path)
     q_type_list = pd.unique(df['type'])
-    for in 
+    for in q_type_list
 
 
     return None
