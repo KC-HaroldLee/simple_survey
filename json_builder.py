@@ -19,10 +19,10 @@ for line_num, line in enumerate(lines) :
             "value": 2,
             "text": "그렇다"
             },
-            # {
-            # "value": 1,
-            # "text": "잘 모르겠다"
-            # },
+            {
+            "value": 1,
+            "text": "잘 모르겠다"
+            },
             {
             "value": 0,
             "text": "아니다"
