@@ -1,0 +1,425 @@
+﻿{
+    "name": "page1",
+    "elements": [
+        {
+            "type": "rating",
+            "name": "Q_1",
+            "title": "성평등 정책은 여성에게만 유리하게 작용한다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_2",
+            "title": "직장에서 여성의 승진이 늦는 것은 주로 개인의 능력 차이 때문이다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_3",
+            "title": "성소수자의 권리 신장은 기존 가족 제도를 위협할 수 있다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_4",
+            "title": "페미니즘 운동은 현재 우리 사회에서 그 역할을 다했다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_5",
+            "title": "성희롱 예방 교육은 불필요한 오해를 야기할 수 있다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_6",
+            "title": "여성의 안전을 위해 여성 전용 공간을 더 많이 만들어야 한다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_7",
+            "title": "성중립적 언어 사용은 의사소통을 불편하게 만든다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_8",
+            "title": "트랜스젠더의 성별 정정은 신중히 제한되어야 한다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_9",
+            "title": "동성애자의 입양권은 아동의 건강한 성장을 위해 제한될 수 있다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_10",
+            "title": "남녀 임금 격차는 주로 개인의 선택과 노력의 차이에서 비롯된다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_11",
+            "title": "성소수자를 다루는 미디어 콘텐츠는 청소년에게 부적절할 수 있다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_12",
+            "title": "여성 할당제는 역차별을 야기할 수 있다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_13",
+            "title": "군대에서 여성의 역할은 제한적일 수밖에 없다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_14",
+            "title": "기업의 여성 임원 비율 의무화는 기업의 자율성을 침해한다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_15",
+            "title": "성교육은 전통적인 성 역할과 가치관을 존중해야 한다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_16",
+            "title": "성소수자의 인권 신장은 사회 전반의 인권 향상으로 이어진다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_17",
+            "title": "성평등 실현을 위해서는 남성의 희생이 불가피하다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_18",
+            "title": "직장 내 성평등은 업무 효율성을 저하시킬 수 있다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_19",
+            "title": "가사와 육아의 공평한 분담은 현실적으로 어렵다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "name": "Q_20",
+            "title": "젠더 관련 이슈는 다른 사회 문제에 비해 과대평가되고 있다.",
+            "autoGenerate": false,
+            "rateCount": 3,
+            "rateValues": [
+                {
+                    "value": 2,
+                    "text": "그렇다"
+                },
+                {
+                    "value": 1,
+                    "text": "잘 모르겠다"
+                },
+                {
+                    "value": 0,
+                    "text": "아니다"
+                }
+            ]
+        }
+    ]
+}

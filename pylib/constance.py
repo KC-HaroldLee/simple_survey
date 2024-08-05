@@ -12,3 +12,4 @@ QUESTION_TYPE_DICT = {
     "value" : {},
     "multiplevalues" : {},
 }
+

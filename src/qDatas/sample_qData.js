@@ -1,4 +1,4 @@
-import data from "./page"
+import data from "./sample_survey"
 
 export const json = {
     "title": "설문조사",
@@ -8,7 +8,7 @@ export const json = {
     "showQuestionNumbers": "off",
     "questionDescriptionLocation": "underInput",
     "questionErrorLocation": "bottom",
-    "completeText": "Next",-
+    "completeText": "Next",
     "widthMode": "static",
     "width": "720",
     "fitToContainer": true

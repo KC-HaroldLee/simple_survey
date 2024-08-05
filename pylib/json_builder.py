@@ -3,12 +3,20 @@ https://surveyjs.io/form-library/documentation/customize-question-types/add-cust
 '''
 import pandas as pd
 import os
+try :
+    from pylib.constance import QUESTION_TYPE_DICT
+except :
+    from constance import QUESTION_TYPE_DICT
 
 
 def build_survey_data(csv_file_path:str) -> list : 
     df = pd.read_csv(sample_path)
-    q_type_list = pd.unique(df['type'])
-    for in q_type_list
+    csv_qtype_list = pd.unique(df['type'])
+    allow_qtype_list = [key for key in QUESTION_TYPE_DICT.keys()]
+    disallow_qtype = [csv_qtype for csv_qtype in csv_qtype_list if not csv_qtype in allow_qtype_list]
+    #TODO qtype 정리하기
+    print(f'다음 disallow qtype {disallow_qtype}')
+    
 
 
     return None
