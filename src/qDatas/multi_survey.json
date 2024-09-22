@@ -1,0 +1,116 @@
+﻿{
+    "0" : [
+            {
+            "name": "page1",
+            "elements": [
+                {
+                    "type": "image",
+                    "name": "t-shirt",
+                    "visible": true,
+                    "width": "50%",
+                    "minWidth": "224px",
+                    "imageLink": "https://surveyjs.io/Content/Images/examples/image-picker/lion.jpg",
+                    "imageFit": "cover",
+                    "imageHeight": "auto",
+                    "imageWidth": "1000"
+                },
+                {
+                    "type": "rating",
+                    "name": "Q_1",
+                    "title": "성평등 정책은 여성에게만 유리하게 작용한다.",
+                    "isRequired": true,
+                    "autoGenerate": false,
+                    "rateCount": 3,
+                    "rateValues": [
+                        {
+                            "value": 2,
+                            "text": "그렇다"
+                        },
+                        {
+                            "value": 1,
+                            "text": "잘 모르겠다"
+                        },
+                        {
+                            "value": 0,
+                            "text": "아니다"
+                        }
+                    ]
+                },
+                {
+                    "type": "rating",
+                    "name": "Q_2",
+                    "title": "직장에서 여성의 승진이 늦는 것은 주로 개인의 능력 차이 때문이다.",
+                    "isRequired": true,
+                    "autoGenerate": false,
+                    "rateCount": 3,
+                    "rateValues": [
+                        {
+                            "value": 2,
+                            "text": "그렇다"
+                        },
+                        {
+                            "value": 1,
+                            "text": "잘 모르겠다"
+                        },
+                        {
+                            "value": 0,
+                            "text": "아니다"
+                        }
+                    ]
+                }
+            ]
+            },
+            {
+                "name": "page2",
+                "elements": [
+                    {
+                        "type": "rating",
+                        "name": "Q_3",
+                        "title": "2222성평등 정책은 여성에게만 유리하게 작용한다.",
+                        "isRequired": true,
+                        "autoGenerate": false,
+                        "rateCount": 3,
+                        "rateValues": [
+                            {
+                                "value": 2,
+                                "text": "그렇다"
+                            },
+                            {
+                                "value": 1,
+                                "text": "잘 모르겠다"
+                            },
+                            {
+                                "value": 0,
+                                "text": "아니다"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rating",
+                        "name": "Q_4",
+                        "title": "22222직장에서 여성의 승진이 늦는 것은 주로 개인의 능력 차이 때문이다.",
+                        "isRequired": true,
+                        "autoGenerate": false,
+                        "rateCount": 3,
+                        "rateValues": [
+                            {
+                                "value": 2,
+                                "text": "그렇다"
+                            },
+                            {
+                                "value": 1,
+                                "text": "잘 모르겠다"
+                            },
+                            {
+                                "value": 0,
+                                "text": "아니다"
+                            }
+                        ]
+                    }
+                ]
+                }
+]
+}
+
+
+

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "load-json-file": "^7.0.1",
     "react": "latest",
     "react-compiler-healthcheck": "^0.0.0-experimental-ab3118d-20240725",
     "react-dom": "latest",

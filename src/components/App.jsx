@@ -3,12 +3,13 @@ import "./App.css";
 //     createContext
 // } from "react"
 
-// import SurveyComponent from "./SurveyComponent";
+import SampleSurveyComponent from "./SampleSurveyComponent";
 
 function App() {
     return (
         <>
-            <h1>기본</h1>
+            <h1>테스트중</h1>
+            <SampleSurveyComponent survey_no={0}/>
         </>
     )
 }

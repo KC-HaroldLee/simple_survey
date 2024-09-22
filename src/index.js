@@ -6,5 +6,6 @@ import App from "./components/App";
 
 // const root = createRoot(document.getElementById("surveyElement"));
 const root = createRoot(document.getElementById("sampleSurvey"));
+root.render(<App survey_no={0}/>);
 
-root.render(<SampleSurveyComponent />);
+// root.render(<SampleSurveyComponent survey_no={}/>);
